@@ -1,0 +1,6 @@
+framework module JHCBaseUIKit {
+  umbrella header "JHCBaseUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

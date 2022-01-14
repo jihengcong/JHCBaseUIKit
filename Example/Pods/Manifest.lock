@@ -1,0 +1,16 @@
+PODS:
+  - JHCBaseUIKit (0.1.0)
+
+DEPENDENCIES:
+  - JHCBaseUIKit (from `../`)
+
+EXTERNAL SOURCES:
+  JHCBaseUIKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JHCBaseUIKit: 9971ed7b7b8db0458ae2f22bde1e9068a768e995
+
+PODFILE CHECKSUM: 6b3dca60615e5c37614b7f3a3bb60b6b76ab8e57
+
+COCOAPODS: 1.11.2
